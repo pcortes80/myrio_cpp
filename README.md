@@ -1,4 +1,4 @@
-# My First Code in NI myRIO
+# My First Code in NI myRIO and C/C++
 
 Very simple code in NI myRIO-1900.
 The FPGA is programmed with NI LabVIEW FPGA 2019 module.
